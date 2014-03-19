@@ -11,3 +11,143 @@
  *= require_self
  *= require_tree .
  */
+
+ .node {
+  stroke: #fff;
+  stroke-width: 3.5px;
+}
+
+#footer { 
+  width: 100%;
+  margin-left: -7px;
+  height: 50px;
+  background-color: #282828;
+  position: fixed;
+  bottom: 0px;
+}
+
+.body_text {
+  font-size: 20px;
+}
+
+#footer-line-dark {
+  width: 100%;
+  margin-left: -7px;
+  height: 1px;
+  background-color: #181818 ;
+  position: fixed;
+  bottom: 51px;
+}
+
+.divider {
+  height: 50px;
+  width: 1px;
+  background: #181818;
+}
+
+.divider-highlight {
+  height: 50px;
+  width: 1px;
+  background: #383838;
+}
+
+#left-divider {
+  position: fixed;
+  bottom: 0px;
+}
+
+#left-divider-highlight {
+  position: relative;
+  left: 1px;
+  bottom: 130px;
+}
+
+#right-divider {
+  position: relative;
+  left: 420px;
+  bottom: 80px;
+}
+
+#right-divider-highlight {
+  position: relative;
+  left: 419px;
+  bottom: 180px;
+}
+
+#footer-line-light {
+  width: 100%;
+  margin-left: -7px;
+  height: 1px;
+  background-color: #383838 ;
+  position: fixed;
+  bottom: 50px;
+}
+
+#footer-song-name {
+  width: 100px;
+  margin-left: 500px;
+  height: 50px;
+  position: fixed;
+  background-color: white ;
+  bottom: 100px;
+}
+
+.node text {
+  color: white;
+  stroke-width: 0px;
+  font-family: Trench;
+  font-weight: bold;
+}
+
+.title_large {
+	font-size: 25px;
+  font-weight: bold;
+}
+
+.title_large_test { 
+	color: black;
+}
+
+.title_small {
+	font-size: 15px;
+  font-weight: bold;
+}
+
+.link {
+  stroke-width: 3.5px;
+  stroke: #999;
+  stroke-opacity: .6;
+}
+
+body {
+  background-color: #282828;
+}
+
+.power_button {
+	cursor: pointer;
+}
+
+@font-face
+{
+  font-family: Trench;
+  src: url("trench100free.otf");
+}
+
+#jp_container_1 {
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#info-area {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  bottom: 259px;
+  left: 387px;
+  background: url("jplayer.blue.monday.jpg") 0 -170px no-repeat;
+}
+
+.node-play-button {
+  cursor: pointer;
+}

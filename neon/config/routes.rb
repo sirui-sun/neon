@@ -1,4 +1,9 @@
 Neon::Application.routes.draw do
+  get "main/home"
+  get "main/about"
+  get "main/songs"
+
+  root 'main#home'
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 

@@ -1,0 +1,113 @@
+{
+  "nodes":[
+    	{
+        "name":"House",
+        "category": "genre", 
+        "group":1,
+        "info": "House music is a genre of electronic dance music that originated in the American city of Chicago in the early 1980s. It was initially popularized circa 1984 in Chicago, but beginning in 1985, it fanned out to other major cities. Early house music was generally dance-based music characterized by repetitive 4/4 beats, rhythms mainly provided by drum machines,[2] off-beat hi-hat cymbals, and synthesized basslines.",
+        "artists": [
+            {"name": "Avicii", "image_url": "http://www.nikkian.com/img/aviciiLogo-white.png", "link_to": ""},
+            {"name": "Hardwell", "image_url": "assets/Hardwell.png", "link_to": ""},
+            {"name": "Calvin Harris", "image_url": "assets/Calvin Harris.png", "link_to": ""},
+            {"name": "Deadmau5", "image_url": "assets/Deadmau5.png", "link_to": ""}
+          ]
+      }
+    , 	
+      { 
+        "name": "Electro-House",
+        "category": "subgenre",
+        "group": 1,
+        "info": "House music is a genre of electronic dance music that originated in the American city of Chicago in the early 1980s. It was initially popularized circa 1984 in Chicago, but beginning in 1985, it fanned out to other major cities. Early house music was generally dance-based music characterized by repetitive 4/4 beats, rhythms mainly provided by drum machines,[2] off-beat hi-hat cymbals, and synthesized basslines.",
+        "artists": []
+      }
+    ,
+      {
+        "name": "Progressive House",
+        "category": "subgenre",
+        "group": 1,
+        "info": "placeholder",
+        "artists": []
+      }
+    , 	
+      {
+        "name":"Trance",
+        "category": "genre",
+        "group":3,
+        "info": "House music is a genre of electronic dance music that originated in the American city of Chicago in the early 1980s. It was initially popularized circa 1984 in Chicago, but beginning in 1985, it fanned out to other major cities. Early house music was generally dance-based music characterized by repetitive 4/4 beats, rhythms mainly provided by drum machines,[2] off-beat hi-hat cymbals, and synthesized basslines.",
+        "artists": []
+      }
+    , 	
+      {
+        "name": "Tech-Trance",
+        "category": "subgenre",
+        "group": 3,
+        "info": "House music is a genre of electronic dance music that originated in the American city of Chicago in the early 1980s. It was initially popularized circa 1984 in Chicago, but beginning in 1985, it fanned out to other major cities. Early house music was generally dance-based music characterized by repetitive 4/4 beats, rhythms mainly provided by drum machines,[2] off-beat hi-hat cymbals, and synthesized basslines.",
+        "artists": []
+      }
+    , 
+      {
+        "name":"Dubstep",
+        "category": "genre",
+        "group":5,
+        "info": "House music is a genre of electronic dance music that originated in the American city of Chicago in the early 1980s. It was initially popularized circa 1984 in Chicago, but beginning in 1985, it fanned out to other major cities. Early house music was generally dance-based music characterized by repetitive 4/4 beats, rhythms mainly provided by drum machines,[2] off-beat hi-hat cymbals, and synthesized basslines.",
+        "artists": []
+      }
+    ,  
+      {
+        "name":"Techno",
+        "category": "genre",
+        "group":2,
+        "info": "House music is a genre of electronic dance music that originated in the American city of Chicago in the early 1980s. It was initially popularized circa 1984 in Chicago, but beginning in 1985, it fanned out to other major cities. Early house music was generally dance-based music characterized by repetitive 4/4 beats, rhythms mainly provided by drum machines,[2] off-beat hi-hat cymbals, and synthesized basslines.",
+        "artists": []
+      }
+    ,
+      {
+        "name":"Minimal",
+        "category": "subgenre",
+        "group":2,
+        "info": "House music is a genre of electronic dance music that originated in the American city of Chicago in the early 1980s. It was initially popularized circa 1984 in Chicago, but beginning in 1985, it fanned out to other major cities. Early house music was generally dance-based music characterized by repetitive 4/4 beats, rhythms mainly provided by drum machines,[2] off-beat hi-hat cymbals, and synthesized basslines.",
+        "artists": []
+      }
+    ,
+      {
+        "name":"Tech House",
+        "category": "subgenre",
+        "group":1,
+        "info": "House music is a genre of electronic dance music that originated in the American city of Chicago in the early 1980s. It was initially popularized circa 1984 in Chicago, but beginning in 1985, it fanned out to other major cities. Early house music was generally dance-based music characterized by repetitive 4/4 beats, rhythms mainly provided by drum machines,[2] off-beat hi-hat cymbals, and synthesized basslines.",
+        "artists": []
+      }
+    ,
+      {
+        "name":"Progressive Trance",
+        "category": "subgenre",
+        "group":3,
+        "info": "House music is a genre of electronic dance music that originated in the American city of Chicago in the early 1980s. It was initially popularized circa 1984 in Chicago, but beginning in 1985, it fanned out to other major cities. Early house music was generally dance-based music characterized by repetitive 4/4 beats, rhythms mainly provided by drum machines,[2] off-beat hi-hat cymbals, and synthesized basslines.",
+        "artists": []
+      }
+    ,
+      {
+        "name":"Drum & Bass",
+        "category": "genre",
+        "group":4,
+        "info": "House music is a genre of electronic dance music that originated in the American city of Chicago in the early 1980s. It was initially popularized circa 1984 in Chicago, but beginning in 1985, it fanned out to other major cities. Early house music was generally dance-based music characterized by repetitive 4/4 beats, rhythms mainly provided by drum machines,[2] off-beat hi-hat cymbals, and synthesized basslines.",
+        "artists": []
+      }
+    ,
+      {
+        "name":"Garage",
+        "category": "genre",
+        "group":6,
+        "info": "House music is a genre of electronic dance music that originated in the American city of Chicago in the early 1980s. It was initially popularized circa 1984 in Chicago, but beginning in 1985, it fanned out to other major cities. Early house music was generally dance-based music characterized by repetitive 4/4 beats, rhythms mainly provided by drum machines,[2] off-beat hi-hat cymbals, and synthesized basslines.",
+        "artists": []
+      }
+  ],
+  "links":
+    [
+  		{ "source": 0, "target": 1 },
+      { "source": 0, "target": 2 },
+      { "source": 3, "target": 4 },
+      { "source": 6, "target": 7 },
+      { "source": 0, "target": 8 },
+      { "source": 3, "target": 9}
+    ]
+}
